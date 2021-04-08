@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pronounciations</string>
+    <string name="action_settings">Settings</string>
+    <string name="splash_txt_hello">Hello</string>
+</resources>
